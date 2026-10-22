@@ -1,4 +1,3 @@
-do
 local RUI = {}
 BANANA_RED_UI = RUI
 
