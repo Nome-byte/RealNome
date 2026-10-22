@@ -1,3 +1,12 @@
+--=====================================================================
+--  NOIJO HUB UI LIBRARY
+--  Thay the truc tiep cho thu vien zzzz.lua (A.CreateMain / A.CreateNoti / A.Options)
+--  Theme: Black + Neon Red  (#0b0b0e / #ff2d41)
+--  API: CreateMain -> CreatePage -> CreateSection -> CreateToggle / CreateButton /
+--       CreateDropdown / CreateSlider / CreateBox / CreateLabel / CreateBind
+--  (boc trong do..end de khong an vao gioi han 200 local cua chunk chinh)
+--=====================================================================
+do
 local RUI = {}
 BANANA_RED_UI = RUI
 
