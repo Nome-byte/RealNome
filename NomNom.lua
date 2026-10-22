@@ -30252,3 +30252,4 @@ if not getgenv().BananaCatMainLoop then
 end
 -- (da bo collectgarbage("collect") luc OnTeleport: full GC giua luc engine dang huy map cu gay crash)
 getgenv().__BF_LOADED = game.JobId
+
